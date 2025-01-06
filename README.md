@@ -7,9 +7,9 @@ TAREAS:
 - NOTA 2: Hoy (dic 28) no se avanzó absolutamente nada. Intenté resolver el problema de los escuadrones dentro de la escena stage, pero no pude spawnearlos en un orden deseado. Siempre aparecen todos y al mismo tiempo, sólo algunas veces, molestando con el código, podía hacer reaparecer el primer mob. No era lo deseado. Tal vez, una aproximación distinta a cómo estoy construyendo las escenas sea necesario. Encontré algo que se llama components, veré tutoriales y leeré algo en la documentación; lo poco que he visto podría servir incluso para resolver el problema 3.
 - NOTA 3: Ahora los mobs salen en escuadrones sin ningún error por parte del inspector.
   
-3. Implementar el código de hp en el jugador (no estoy seguro si implementarlo en los mobs o hacerlos morir de un solo tiro o crear proyectiles con diferentes cifras de daño).
-4. Parallax.
-5. Power-Ups.
+3. Implementar el código de hp en el jugador (no estoy seguro si implementarlo en los mobs o hacerlos morir de un solo tiro o crear proyectiles con diferentes cifras de daño). Hecho junto con un flash hit como feedback para el jugador.
+4. Parallax. Uno sencillo con assets gratuitos.
+5. Power-Ups. 
 6. Diferentes enemigos.
 7. Implementar cross-shooting.
 8. Boss.
