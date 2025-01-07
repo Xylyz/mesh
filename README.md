@@ -10,8 +10,11 @@ TAREAS:
 3. Implementar el código de hp en el jugador (no estoy seguro si implementarlo en los mobs o hacerlos morir de un solo tiro o crear proyectiles con diferentes cifras de daño). Hecho junto con un flash hit como feedback para el jugador.
 4. Parallax. Uno sencillo con assets gratuitos.
 5. Decidí hacer primero dos oleadas de enemigos para tener algo más "jugable".
-6. Power-Ups. 
-7. Diferentes enemigos.
-8. Implementar cross-shooting.
-9. Boss.
-10. Cambio de stage: 
+6. Mañana debería mejorar las oleadas, quizá tener un máximo de cuatro. Las dos primeras con embestida, otras dos con enemigos que disparen proyectiles.
+7. Diferentes tipos de enemigos.
+8. Sistema de Power-Ups. 
+9. Picking "enemy" parts.
+10. Boss.
+11. Cambio al stage 2.
+12. Nuevas partes de enemigos.
+13. La meta es llegar al cambio de jugabilidad a un A-RPG donde se mejora al personaje con las partes de los enemigos conseguidos en el SHMUP. Aquí se conseguirán mejoras para la nave y se hará un tease para la construcción de una nueva nave.
