@@ -9,8 +9,9 @@ TAREAS:
   
 3. Implementar el código de hp en el jugador (no estoy seguro si implementarlo en los mobs o hacerlos morir de un solo tiro o crear proyectiles con diferentes cifras de daño). Hecho junto con un flash hit como feedback para el jugador.
 4. Parallax. Uno sencillo con assets gratuitos.
-5. Power-Ups. 
-6. Diferentes enemigos.
-7. Implementar cross-shooting.
-8. Boss.
-9. Cambio de stage: 
+5. Decidí hacer primero dos oleadas de enemigos para tener algo más "jugable".
+6. Power-Ups. 
+7. Diferentes enemigos.
+8. Implementar cross-shooting.
+9. Boss.
+10. Cambio de stage: 
