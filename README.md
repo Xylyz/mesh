@@ -8,11 +8,11 @@ TAREAS:
 - NOTA 3: Ahora los mobs salen en escuadrones sin ningún error por parte del inspector.
   
 3. Implementar el código de hp en el jugador (no estoy seguro si implementarlo en los mobs o hacerlos morir de un solo tiro o crear proyectiles con diferentes cifras de daño). Hecho junto con un flash hit como feedback para el jugador.
-4. Parallax. Uno sencillo con assets gratuitos.
+4. Parallax. Hice uno sencillo con assets gratuitos.
 5. Decidí hacer primero dos oleadas de enemigos para tener algo más "jugable".
-6. Mañana debería mejorar las oleadas, quizá tener un máximo de cuatro. Las dos primeras con embestida, otras dos con enemigos que disparen proyectiles.
-7. Diferentes tipos de enemigos.
-8. Sistema de Power-Ups. 
+6. Mañana debería mejorar las oleadas, quizá tener un máximo de cuatro. Las dos primeras con embestida, otras dos con enemigos que disparen proyectiles. Decidí poner los mobs ya hechos que sólo embisten para concentrarme un poco en el sistema de drops.
+7. Diferentes tipos de enemigos. No se ha realizado nada todavía.
+8. Sistema de Power-Ups. Por lo menos ya dejan caer el power-up, falta es tener un sistema mucho más flexible que permita agregar diferentes tipos de power-ups. Tal vez con resources o polymorphism, o quizá ambos, tengo que aprender bien cómo hacer eso.
 9. Picking "enemy" parts.
 10. Boss.
 11. Cambio al stage 2.
